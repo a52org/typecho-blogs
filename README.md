@@ -1,5 +1,5 @@
 
-echo“#typecho-blogs”>> README.md 
+echo“#typecho-blogs”>> README.md typecho-blogs
 博客主题
 
 
